@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo9_ProvidedHosted", "Modulo9_ProvidedHosted\Modulo9_ProvidedHosted.csproj", "{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo9_ProvidedHostedWeb", "Modulo9_ProvidedHostedWeb\Modulo9_ProvidedHostedWeb.csproj", "{06C49225-15F4-44BD-89F5-8F32D1387EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE8CD2A-3A06-48CC-99C5-3C99E425B171}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{06C49225-15F4-44BD-89F5-8F32D1387EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C49225-15F4-44BD-89F5-8F32D1387EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C49225-15F4-44BD-89F5-8F32D1387EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C49225-15F4-44BD-89F5-8F32D1387EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
